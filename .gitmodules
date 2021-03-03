@@ -1,0 +1,11 @@
+[submodule "Benchmarks/bert"]
+	path = Benchmarks/bert
+	url = https://github.com/google-research/bert.git
+[submodule "Benchmarks/tpu"]
+	path = Benchmarks/tpu
+	url = https://github.com/tensorflow/tpu.git
+	branch = r1.14
+[submodule "Benchmarks/models"]
+	path = Benchmarks/models
+	url = https://github.com/tensorflow/models.git
+	branch = r1.13.0
