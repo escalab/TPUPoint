@@ -11,6 +11,9 @@ TPUPoint is built into TensorFlow 1.15.3.
 
 To install TensorFlow with TPUPoint, please go to the `TensorflowTPUPoint` directory and follow the `README.md`.
 
+**Note:** TPUPoint is built to run on [Google Cloud Platform (GCP)](https://console.cloud.google.com).
+If you have not already done so, please create a project with TPUv2-8 or TPUv3-8 access. 
+
 ## Benchmarks
 
 To run TPUPoint with pre-built benchmarks, please go to the `Benchmarks` directory and follow the `README.md`.
