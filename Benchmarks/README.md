@@ -12,7 +12,7 @@ You will need to know the following about your project before beginning:
 - TPU zone (`tpu_zone`)
 
 
-**NOTE:** Make sure to clone using `git clone --recurse-submodules` to also include all submodules. required.
+**NOTE:** Make sure to clone using `git clone --recurse-submodules` to also include all submodules required.
 
 ## Download Datasets
 
